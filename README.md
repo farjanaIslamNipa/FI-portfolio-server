@@ -1,4 +1,2 @@
-# full-stack-university-project
-# luxeline-server
-# luxeline-server
-# FI-portfolio-server
+
+# Farjana Islam | Bringing Pixels to Life
